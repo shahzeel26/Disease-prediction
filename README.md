@@ -9,3 +9,4 @@ user have to use the algorithm which gives the best accuracy and train the model
 ![image](https://user-images.githubusercontent.com/93285751/225253868-c4f67cf6-b672-4e52-b361-e8a7dc2afd59.png)
 Third page the heart disease prediction
 same as diabetes prediction to train the model
+![image](https://user-images.githubusercontent.com/93285751/225254162-1d17cf8a-6f5c-458e-961e-5bfe92cd00e9.png)
